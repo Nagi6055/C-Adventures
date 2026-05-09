@@ -31,8 +31,12 @@ Track progress over time
 ## 📈 Progress
 This is an evolving repository, updated regularly as I continue learning and building new projects.
 
+---
+
 ## 🤝 Contributions
 This is a personal learning project, but suggestions and feedback are always welcome!
+
+---
 
 ## 📌 Notes
 Code quality, structure, and complexity will improve over time as I gain more experience.
